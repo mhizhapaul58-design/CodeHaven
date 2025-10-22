@@ -1,16 +1,15 @@
-#**CodeHaven**
+**CodeHaven**
 
 
 CodeHaven where ideas find their syntax
 
-#**Features**
+**Features**
 
 
 -Filter recipes by cuisine 
 
 
 -Save favourite recipies 
-
 
 
 -can download for printing
@@ -20,5 +19,10 @@ CodeHaven where ideas find their syntax
 
 
 -Useable on all devices 
+
+**Files included**
+
+index.html
+
 
 
