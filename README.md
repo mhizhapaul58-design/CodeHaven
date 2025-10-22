@@ -23,7 +23,6 @@ CodeHaven where ideas find their syntax
 **Files included**
 
 ├── index.html          # Main tutorial page
-
 ├── styles.css          # Stylesheet for both pages
 
 
