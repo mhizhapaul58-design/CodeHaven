@@ -22,7 +22,7 @@ CodeHaven where ideas find their syntax
 
 **Files included**
 
-index.html
+├── index.html          # Main tutorial page
 
 
 
