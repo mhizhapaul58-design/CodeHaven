@@ -41,13 +41,13 @@ CSS describes how HTML elements should be displayed.
 
 
 #### Tags
-├──<h1> to <h6> #<h1> defines the most important heading. <h6> defines the least important heading.
-├──<p> # element defines a paragraph.
-├──<a> #tag defines a hyperlink. It has the following syntax
-├──img #Displays an image
+├──
+├──
+├── 
+├──
+
 #### Tips
 ### CSS style
-
 
 
 
