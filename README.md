@@ -41,23 +41,38 @@ CSS describes how HTML elements should be displayed.
 
 
 #### Tags
-├──
-├──
-├── 
-├──
+├──   area
+
+├──  address
+
+├──  !DOCTYPE
+
+├──  a
 
 #### Tips
+Tags help browsers and screen readers understand your page better
+
+Always include alt text for images 
+
 ### CSS style
+
+CSS is the language we use to style an HTML document.
+
+CSS describes how HTML elements should be displayed.
 
 
 
 ## SQL/Database
+
 ### Intro
+SQL is a standard language for storing, manipulating and retrieving data in databases.
 #### Create a database
 ### SQL key words
-├──And
-├──Order by
-├──All
+├──And       #The AND operator is used to filter records based on more than one condition, like if you want to return all customers from Spain that starts with the letter 'G'
+
+├──Order by  #The ORDER BY keyword is used to sort the result-set in ascending or descending order.
+
+├──Having     #The HAVING clause was added to SQL because the WHERE keyword cannot be used with aggregate functions.
 
 
 
